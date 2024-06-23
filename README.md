@@ -3,7 +3,7 @@
 
 
 
-![logo](https://github.com/mumal885/school-website/blob/main/sch.png)
+![logo](https://github.com/SumeetPatil7/school-/blob/main/school%20%20%2B/sch.png)
 # school-website
 This school-website is coded in html, css,js.
 
